@@ -1,0 +1,9 @@
+scipy
+numpy
+pandas
+boto3
+flask~=1.0.2
+flask_cors==3.0.8
+flask-restplus
+flask_swagger==0.2.14
+Werkzeug==0.16.0
